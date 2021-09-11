@@ -2,6 +2,7 @@
 
 import argparse;
 import subprocess;
+import webbrowser;
 
 videos = {
     "fancy": {
@@ -141,10 +142,10 @@ def play_video(title: str, vlc):
     else:
         url = videos[title]["url"]
 
-    application = "firefox"
     if vlc:
-        application = "vlc"
-    subprocess.run([application, url])
+        subprocess.run(["vlc", url])
+    else:
+        webbrowser.open(url, new=2)
 
 
 def main():
