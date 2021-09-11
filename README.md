@@ -3,7 +3,7 @@
 Play your favourite Twice music video, right now!
 
 ```bash
-twice fancy         # Play Fancy, defaults to Firefox
+twice fancy         # Play Fancy, using default browser
 
 twice fancy --vlc   # Play Fancy, but use VLC
 
