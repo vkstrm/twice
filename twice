@@ -119,6 +119,16 @@ videos = {
         "title": "Alcohol-Free",
         "alias": ["alcoholfree","alcohol free","alcohol","alcfree"],
         "url": "https://www.youtube.com/watch?v=XA2YEHn-A8Q"
+    },
+    "breakthrough": {
+        "title": "Breakthrough",
+        "alias":  ["break"],
+        "url": "https://www.youtube.com/watch?v=ZdKYi5ekshM"
+    },
+    "perfect world": {
+        "title": "Perfect World",
+        "alias": ["perfect", "perfectworld", "perfworld"],
+        "url": "https://www.youtube.com/watch?v=fmOEKOjyDxU"
     }
 }
 
