@@ -129,6 +129,11 @@ videos = {
         "title": "Perfect World",
         "alias": ["perfect", "perfectworld", "perfworld"],
         "url": "https://www.youtube.com/watch?v=fmOEKOjyDxU"
+    },
+    "the feels": {
+        "title": "The Feels",
+        "alias": ["thefeels", "feels"],
+        "url": "https://www.youtube.com/watch?v=f5_wn8mexmM"
     }
 }
 
